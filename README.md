@@ -102,11 +102,7 @@ jupyter notebook "Gradient_Descent.ipynb"
 ## 👨‍💻 Author
 
 **Kaivalya Anil Patil**  
-AI & Data Science Student — G H Raisoni College of Engineering & Management, Nagpur  
+AI & Data Science Student — G H Raisoni College of Engineering, Nagpur  
 🔗 [LinkedIn](https://www.linkedin.com/in/kaivalya-anil-patil-67a52a305) | 🐙 [GitHub](https://github.com/Kaivalyp862)
 
 ---
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
